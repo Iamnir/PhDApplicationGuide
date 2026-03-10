@@ -1,6 +1,6 @@
 # PhD in Economics and Finance Application Guide
 
-A practical guide for prospective PhD applicants in economics and finance. I aim to consolidate the resources and share experiences. 
+A practical guide for prospective PhD applicants in economics and finance. I consolidated these resources with the help of Claude and added tips based on my own experience. The goal is to give you a clearer picture of the application process so you can prepare well. That said, admissions outcomes are hard to predict with certainty. It is something of a random walk. All I do with the help of this document is share as much useful information as possible and hope it helps you make better decisions along the way. 
 
 **Authors:** Niranjan Kumar (Olin School of Business) & Claude
 
