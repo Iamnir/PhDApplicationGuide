@@ -1,6 +1,6 @@
 # PhD in Economics and Finance Application Guide
 
-**A practical guide for prospective PhD applicants in economics and finance.** I consolidated these resources with the help of Claude and added tips based on my own experience. The goal is to give you a clearer picture of the application process so you can prepare well. That said, admissions outcomes are hard to predict with certainty. It is something of a random walk. All I can do is share as much useful information as possible and hope it helps you make better decisions along the way.
+**A practical guide for prospective PhD applicants in economics and finance.** I consolidated these resources with the help of Claude and added tips based on my own experience. The goal is to give you a clearer picture of the application process so you can prepare well. That said, admissions outcomes are hard to predict with certainty. It is something of a random walk conditional on a random variable "getting admitted into a department." But it shows some sort of consistency when you condition on a well prepared application pacakge and getting admitted into at least one of the schools. All I can do is share as much useful information as possible and hope it helps you make better decisions along the way.
 
 **Authors:** Niranjan Kumar (Olin School of Business) & Claude
 
